@@ -1,0 +1,13 @@
+package com.zerowhisper.shorturlserver;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ShortUrlServerApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
